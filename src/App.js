@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <div className="App">App Goes Here</div>;
+  return <div className="App">Covid 19 Tracker</div>;
 }
 
 export default App;
